@@ -6,9 +6,9 @@
  - **Filter Expenses**: Shows expenses for a selected category.
  - **Calculate Total**: Displays the total amount spent.
  - **Delete Expense**: 
-  - Enter a date (YYYY-MM-DD).
-  - If expenses exist for that date, they will be removed.
-  - If no matching expenses are found, you will be prompted to try again.
+    - Enter a date (YYYY-MM-DD).
+    - If expenses exist for that date, they will be removed.
+    - If no matching expenses are found, you will be prompted to try again.
 - **Exit**: Closes the program.
 
 ## Responsibilities/Credits
